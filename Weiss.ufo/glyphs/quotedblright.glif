@@ -1,0 +1,48 @@
+<glyph name="quotedblright" format="2">
+  <advance width="434"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="147" y="724" type="line"/>
+      <point x="137" y="718" type="line"/>
+      <point x="131" y="694" type="line"/>
+      <point x="108" y="595" type="line"/>
+      <point x="83" y="515" type="line"/>
+      <point x="82" y="501" type="line"/>
+      <point x="80" y="487" type="line"/>
+      <point x="92" y="473" type="line"/>
+      <point x="104" y="470" type="line"/>
+      <point x="124" y="482" type="line"/>
+      <point x="137" y="507" type="line"/>
+      <point x="155" y="555" type="line"/>
+      <point x="188" y="635" type="line"/>
+      <point x="223" y="710" type="line"/>
+      <point x="223" y="717" type="line"/>
+      <point x="207" y="730" type="line"/>
+      <point x="157" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="725" type="line"/>
+      <point x="311" y="720" type="line"/>
+      <point x="305" y="704" type="line"/>
+      <point x="279" y="617" type="line"/>
+      <point x="242" y="505" type="line"/>
+      <point x="242" y="477" type="line"/>
+      <point x="249" y="470" type="line"/>
+      <point x="264" y="470" type="line"/>
+      <point x="285" y="490" type="line"/>
+      <point x="394" y="707" type="line"/>
+      <point x="394" y="717" type="line"/>
+      <point x="381" y="728" type="line"/>
+      <point x="330" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.schriftgestaltung.Glyphs.lastChange</key>
+	<string>2018-11-11 16:04:45 +0000</string>
+	<key>public.markColor</key>
+	<string>1,0.8259,0.9157,1</string>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<glyph name="endash" format="2">
+  <advance width="713"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="128" y="277" type="line"/>
+      <point x="117" y="276" type="line"/>
+      <point x="100" y="261" type="line"/>
+      <point x="100" y="233" type="line"/>
+      <point x="107" y="229" type="line"/>
+      <point x="106" y="224" type="line"/>
+      <point x="106" y="219" type="line"/>
+      <point x="113" y="202" type="line"/>
+      <point x="138" y="195" type="line"/>
+      <point x="198" y="199" type="line"/>
+      <point x="254" y="202" type="line"/>
+      <point x="353" y="205" type="line"/>
+      <point x="359" y="205" type="line"/>
+      <point x="502" y="201" type="line"/>
+      <point x="603" y="202" type="line"/>
+      <point x="609" y="213" type="line"/>
+      <point x="613" y="260" type="line"/>
+      <point x="592" y="271" type="line"/>
+      <point x="521" y="274" type="line"/>
+      <point x="493" y="273" type="line"/>
+      <point x="406" y="266" type="line"/>
+      <point x="374" y="274" type="line"/>
+      <point x="330" y="268" type="line"/>
+      <point x="257" y="274" type="line"/>
+      <point x="234" y="266" type="line"/>
+      <point x="215" y="274" type="line"/>
+      <point x="161" y="275" type="line"/>
+      <point x="139" y="279" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.schriftgestaltung.Glyphs.lastChange</key>
+	<string>2018-11-11 16:04:45 +0000</string>
+	<key>public.markColor</key>
+	<string>1,0.8259,0.9157,1</string>
+</dict>
+  </lib>
+</glyph>

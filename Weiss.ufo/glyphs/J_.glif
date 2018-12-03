@@ -1,0 +1,59 @@
+<glyph name="J" format="2">
+  <advance width="311"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="61" y="692" type="line"/>
+      <point x="57" y="683" type="line"/>
+      <point x="64" y="668" type="line"/>
+      <point x="106" y="648" type="line"/>
+      <point x="114" y="635" type="line"/>
+      <point x="116" y="622" type="line"/>
+      <point x="118" y="609" type="line"/>
+      <point x="120" y="479" type="line"/>
+      <point x="121" y="348" type="line"/>
+      <point x="123" y="246" type="line"/>
+      <point x="125" y="143" type="line"/>
+      <point x="125" y="81" type="line"/>
+      <point x="125" y="19" type="line"/>
+      <point x="114" y="-28" type="line"/>
+      <point x="81" y="-60" type="line"/>
+      <point x="57" y="-61" type="line"/>
+      <point x="28" y="-59" type="line"/>
+      <point x="-5" y="-41" type="line"/>
+      <point x="-23" y="-41" type="line"/>
+      <point x="-33" y="-45" type="line"/>
+      <point x="-47" y="-69" type="line"/>
+      <point x="-52" y="-69" type="line"/>
+      <point x="-65" y="-94" type="line"/>
+      <point x="-65" y="-113" type="line"/>
+      <point x="-49" y="-125" type="line"/>
+      <point x="-8" y="-133" type="line"/>
+      <point x="44" y="-129" type="line"/>
+      <point x="82" y="-116" type="line"/>
+      <point x="111" y="-101" type="line"/>
+      <point x="162" y="-46" type="line"/>
+      <point x="197" y="22" type="line"/>
+      <point x="197" y="39" type="line"/>
+      <point x="209" y="83" type="line"/>
+      <point x="216" y="141" type="line"/>
+      <point x="220" y="493" type="line"/>
+      <point x="220" y="554" type="line"/>
+      <point x="220" y="616" type="line"/>
+      <point x="235" y="645" type="line"/>
+      <point x="266" y="659" type="line"/>
+      <point x="275" y="672" type="line"/>
+      <point x="279" y="688" type="line"/>
+      <point x="269" y="701" type="line"/>
+      <point x="65" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.schriftgestaltung.Glyphs.lastChange</key>
+	<string>2018-11-11 16:04:45 +0000</string>
+	<key>public.markColor</key>
+	<string>1,0.8259,0.9157,1</string>
+</dict>
+  </lib>
+</glyph>
