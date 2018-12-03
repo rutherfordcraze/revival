@@ -55,6 +55,14 @@ Hn /H.003/n.003</string>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
+	<key>com.typemytype.robofont.guideline.magnetic.4KQZwHRRuw</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.rNPMZQmfzD</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.showMeasurements.4KQZwHRRuw</key>
+	<false/>
+	<key>com.typemytype.robofont.guideline.showMeasurements.rNPMZQmfzD</key>
+	<false/>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>public.glyphOrder</key>
