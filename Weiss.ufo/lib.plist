@@ -57,9 +57,13 @@ Hn /H.003/n.003</string>
 	<true/>
 	<key>com.typemytype.robofont.guideline.magnetic.4KQZwHRRuw</key>
 	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.6DGo9KKJ8l</key>
+	<integer>5</integer>
 	<key>com.typemytype.robofont.guideline.magnetic.rNPMZQmfzD</key>
 	<integer>5</integer>
 	<key>com.typemytype.robofont.guideline.showMeasurements.4KQZwHRRuw</key>
+	<false/>
+	<key>com.typemytype.robofont.guideline.showMeasurements.6DGo9KKJ8l</key>
 	<false/>
 	<key>com.typemytype.robofont.guideline.showMeasurements.rNPMZQmfzD</key>
 	<false/>

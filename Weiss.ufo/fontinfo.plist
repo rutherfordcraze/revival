@@ -36,6 +36,18 @@
 			<key>y</key>
 			<real>-8.0</real>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>identifier</key>
+			<string>6DGo9KKJ8l</string>
+			<key>name</key>
+			<string>Ascender</string>
+			<key>x</key>
+			<integer>0</integer>
+			<key>y</key>
+			<integer>730</integer>
+		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2018/10/07 13:15:19</string>
