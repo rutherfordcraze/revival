@@ -10,9 +10,5 @@
 		<string>background</string>
 		<string>glyphs.background</string>
 	</array>
-	<array>
-		<string>Old</string>
-		<string>glyphs.O_ld</string>
-	</array>
 </array>
 </plist>
