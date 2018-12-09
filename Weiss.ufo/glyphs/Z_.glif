@@ -3,72 +3,48 @@
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="78" y="701" type="line"/>
-      <point x="71" y="700" type="line"/>
-      <point x="66" y="689" type="line"/>
-      <point x="58" y="632" type="line"/>
-      <point x="48" y="583" type="line"/>
-      <point x="51" y="569" type="line"/>
-      <point x="53" y="554" type="line"/>
-      <point x="65" y="542" type="line"/>
-      <point x="83" y="542" type="line"/>
-      <point x="119" y="596" type="line"/>
-      <point x="145" y="617" type="line"/>
-      <point x="166" y="627" type="line"/>
-      <point x="221" y="641" type="line"/>
-      <point x="439" y="642" type="line"/>
-      <point x="469" y="636" type="line"/>
-      <point x="475" y="625" type="line"/>
-      <point x="475" y="616" type="line"/>
-      <point x="425" y="547" type="line"/>
-      <point x="376" y="479" type="line"/>
-      <point x="287" y="361" type="line"/>
-      <point x="265" y="331" type="line"/>
-      <point x="201" y="247" type="line"/>
-      <point x="172" y="202" type="line"/>
-      <point x="144" y="168" type="line"/>
-      <point x="117" y="130" type="line"/>
-      <point x="67" y="63" type="line"/>
-      <point x="49" y="43" type="line"/>
-      <point x="32" y="14" type="line"/>
-      <point x="42" y="-1" type="line"/>
-      <point x="63" y="-5" type="line"/>
-      <point x="133" y="2" type="line"/>
-      <point x="578" y="2" type="line"/>
-      <point x="603" y="-4" type="line"/>
-      <point x="624" y="-5" type="line"/>
-      <point x="633" y="10" type="line"/>
-      <point x="653" y="95" type="line"/>
-      <point x="663" y="127" type="line"/>
-      <point x="658" y="144" type="line"/>
-      <point x="642" y="152" type="line"/>
-      <point x="594" y="100" type="line"/>
-      <point x="555" y="74" type="line"/>
-      <point x="505" y="61" type="line"/>
-      <point x="233" y="58" type="line"/>
-      <point x="206" y="65" type="line"/>
-      <point x="201" y="79" type="line"/>
-      <point x="207" y="95" type="line"/>
-      <point x="256" y="152" type="line"/>
-      <point x="297" y="211" type="line"/>
-      <point x="374" y="315" type="line"/>
-      <point x="381" y="327" type="line"/>
-      <point x="404" y="355" type="line"/>
-      <point x="460" y="433" type="line"/>
-      <point x="540" y="537" type="line"/>
-      <point x="594" y="606" type="line"/>
-      <point x="632" y="651" type="line"/>
-      <point x="646" y="669" type="line"/>
-      <point x="646" y="693" type="line"/>
-      <point x="632" y="698" type="line"/>
-      <point x="114" y="699" type="line"/>
-      <point x="85" y="702" type="line"/>
+      <point x="478" y="644" type="line"/>
+      <point x="225" y="642" type="line" smooth="yes"/>
+      <point x="165" y="642"/>
+      <point x="132" y="632"/>
+      <point x="86" y="546" type="curve"/>
+      <point x="51" y="556" type="line"/>
+      <point x="62" y="614"/>
+      <point x="68" y="661"/>
+      <point x="73" y="709" type="curve"/>
+      <point x="91" y="709" type="line"/>
+      <point x="125" y="698"/>
+      <point x="231" y="695"/>
+      <point x="645" y="700" type="curve"/>
+      <point x="655" y="685" type="line"/>
+      <point x="498" y="483"/>
+      <point x="344" y="278"/>
+      <point x="193" y="70" type="curve"/>
+      <point x="202" y="57" type="line"/>
+      <point x="493" y="59" type="line" smooth="yes"/>
+      <point x="553" y="59"/>
+      <point x="586" y="74"/>
+      <point x="630" y="144" type="curve"/>
+      <point x="665" y="134" type="line"/>
+      <point x="648" y="86"/>
+      <point x="634" y="39"/>
+      <point x="625" y="-9" type="curve"/>
+      <point x="607" y="-9" type="line"/>
+      <point x="573" y="2"/>
+      <point x="456" y="5"/>
+      <point x="42" y="0" type="curve"/>
+      <point x="32" y="15" type="line"/>
+      <point x="186" y="217"/>
+      <point x="337" y="422"/>
+      <point x="485" y="630" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
 	<key>com.schriftgestaltung.Glyphs.lastChange</key>
 	<string>2018-11-11 16:04:45 +0000</string>
+	<key>public.markColor</key>
+	<string>0.5,0.5,0.5,1</string>
 </dict>
   </lib>
 </glyph>
