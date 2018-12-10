@@ -50,6 +50,8 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>adieresis</key>
+	<string>adieresis.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>d</key>
@@ -74,6 +76,8 @@
 	<string>m.glif</string>
 	<key>n.003</key>
 	<string>n.003.glif</string>
+	<key>odieresis</key>
+	<string>odieresis.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>r</key>
@@ -84,6 +88,8 @@
 	<string>t.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>udieresis</key>
+	<string>udieresis.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 </dict>
