@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>Weiß Antiqua Revival</string>
+	<string>Weiss Antiqua Revival</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -55,8 +55,6 @@
 	<string>Rutherford Craze</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>https://craze.co.uk</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Weiß Antiqua Revival</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
@@ -69,8 +67,6 @@
 	<array/>
 	<key>postscriptFamilyOtherBlues</key>
 	<array/>
-	<key>postscriptFontName</key>
-	<string>WeisAntiquaRevival-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapH</key>
