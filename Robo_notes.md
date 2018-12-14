@@ -15,3 +15,5 @@ This is not intended to be passive-aggressive or otherwise directed at any of Ro
 - Attempting to resize columns in the Font Overview (in Glyph List mode) causes a crash.
 - There's no way to select on-curve and off-curve points in a single action.
 - "Edit With Glyphs" toolbar button (in Font Overview) does nothing.
+- Holding 'cmd' to drag one off-curve of a smooth point while constraining the opposite one does not fully constrain the opposite off-curve.
+- Inputting non-ASCII characters into PostScript font name dialogue breaks test install but gives no indication beforehand.
