@@ -4,6 +4,8 @@ This is the first project for which I've used Robofont. I'm keeping a log of iss
 
 This is not intended to be passive-aggressive or otherwise directed at any of Robofont's contributors, just a record for my own purposes.
 
+I'm planning to submit (some of) these to the Robofont forum, but I'd like to make sure beforehand that they are actual issues with the software, not just things I haven't yet figured out.
+
 ### Cosmetic
 - Inspector and Output windows disappear when main application focus is lost.
 - Space Center header and footer is blue-tinted.
