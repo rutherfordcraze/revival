@@ -17,3 +17,4 @@ This is not intended to be passive-aggressive or otherwise directed at any of Ro
 - "Edit With Glyphs" toolbar button (in Font Overview) does nothing.
 - Holding 'cmd' to drag one off-curve of a smooth point while constraining the opposite one does not fully constrain the opposite off-curve.
 - Inputting non-ASCII characters into PostScript font name dialogue breaks test install but gives no indication beforehand.
+- Many keyboard shortcuts cannot (as far as I can tell) be rebound, and many functions cannot have keyboard shortcuts assigned to them.
