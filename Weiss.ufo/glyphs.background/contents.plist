@@ -58,6 +58,10 @@
 	<string>c_h.liga.glif</string>
 	<key>c_k.liga</key>
 	<string>c_k.liga.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>e</key>
@@ -98,10 +102,14 @@
 	<string>one.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>period</key>
+	<string>period.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>two</key>

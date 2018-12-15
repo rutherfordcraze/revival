@@ -3,9 +3,6 @@
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="110" y="268" type="curve"/>
-      <point x="111" y="247"/>
-      <point x="111" y="225"/>
       <point x="110" y="204" type="curve"/>
       <point x="276" y="207"/>
       <point x="453" y="207"/>
@@ -15,6 +12,9 @@
       <point x="607" y="268" type="curve"/>
       <point x="441" y="265"/>
       <point x="276" y="265"/>
+      <point x="110" y="268" type="curve"/>
+      <point x="111" y="247"/>
+      <point x="111" y="225"/>
     </contour>
   </outline>
   <lib>
