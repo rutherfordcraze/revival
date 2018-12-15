@@ -74,6 +74,8 @@
 	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f_i.liga</key>
+	<string>f_i.liga.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>g</key>
