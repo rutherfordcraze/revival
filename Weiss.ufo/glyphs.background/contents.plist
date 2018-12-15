@@ -76,6 +76,8 @@
 	<string>f.glif</string>
 	<key>f_i.liga</key>
 	<string>f_i.liga.glif</string>
+	<key>f_l.liga</key>
+	<string>f_l.liga.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>g</key>
