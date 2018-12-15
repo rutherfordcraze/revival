@@ -108,6 +108,8 @@
 	<string>parenright.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
+	<key>question</key>
+	<string>question.glif</string>
 	<key>quotedblbase</key>
 	<string>quotedblbase.glif</string>
 	<key>quotedblright</key>
