@@ -20,4 +20,7 @@ I'm planning to submit (some of) these to the Robofont forum, but I'd like to ma
 - Holding 'cmd' to drag one off-curve of a smooth point while constraining the opposite one does not fully constrain the opposite off-curve.
 - Inputting non-ASCII characters into PostScript font name dialogue breaks test install but gives no indication beforehand.
 - Many keyboard shortcuts cannot (as far as I can tell) be rebound, and many functions cannot have keyboard shortcuts assigned to them.
-- Flip option in Copy/Swap To Layer dialog must be undone twice (once for each layer). 
+- Flip option in Copy/Swap To Layer dialog must be undone twice (once for each layer).
+- Copying an image to the background doesn't work.
+- Images sometimes act as if they're locked.
+- When a UFO which contains an image is open, Robofont sometimes crashes without warning. Even if it's just idle in the background. Yes, I have checked the log file.
