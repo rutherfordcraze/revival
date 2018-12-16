@@ -66,6 +66,8 @@
 	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
 	<key>endash</key>
@@ -106,6 +108,8 @@
 	<string>m.glif</string>
 	<key>n.003</key>
 	<string>n.003.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
 	<key>odieresis</key>
 	<string>odieresis.glif</string>
 	<key>one</key>
