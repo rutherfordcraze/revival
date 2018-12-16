@@ -63,8 +63,6 @@
     <dict>
 	<key>com.schriftgestaltung.Glyphs.lastChange</key>
 	<string>2018-12-02 13:52:30 +0000</string>
-	<key>public.markColor</key>
-	<string>0.5,0.5,0.5,1</string>
 </dict>
   </lib>
 </glyph>

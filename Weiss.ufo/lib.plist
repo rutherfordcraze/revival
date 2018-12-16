@@ -113,12 +113,15 @@ Hn /H.003/n.003</string>
 		<string>N</string>
 		<string>O</string>
 		<string>P</string>
+		<string>Q</string>
 		<string>R</string>
 		<string>S</string>
 		<string>T</string>
 		<string>U</string>
 		<string>V</string>
 		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
 		<string>Z</string>
 		<string>a</string>
 		<string>adieresis</string>
@@ -138,6 +141,7 @@ Hn /H.003/n.003</string>
 		<string>o</string>
 		<string>odieresis</string>
 		<string>p</string>
+		<string>q</string>
 		<string>r</string>
 		<string>s</string>
 		<string>t</string>
@@ -145,6 +149,8 @@ Hn /H.003/n.003</string>
 		<string>udieresis</string>
 		<string>v</string>
 		<string>w</string>
+		<string>x</string>
+		<string>y</string>
 		<string>z</string>
 		<string>germandbls</string>
 		<string>c_h.liga</string>
