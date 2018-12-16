@@ -77,11 +77,15 @@ Hn /H.003/n.003</string>
 	<integer>5</integer>
 	<key>com.typemytype.robofont.guideline.magnetic.6DGo9KKJ8l</key>
 	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.Lx8VlCDu0S</key>
+	<integer>5</integer>
 	<key>com.typemytype.robofont.guideline.magnetic.rNPMZQmfzD</key>
 	<integer>5</integer>
 	<key>com.typemytype.robofont.guideline.showMeasurements.4KQZwHRRuw</key>
 	<false/>
 	<key>com.typemytype.robofont.guideline.showMeasurements.6DGo9KKJ8l</key>
+	<false/>
+	<key>com.typemytype.robofont.guideline.showMeasurements.Lx8VlCDu0S</key>
 	<false/>
 	<key>com.typemytype.robofont.guideline.showMeasurements.rNPMZQmfzD</key>
 	<false/>
