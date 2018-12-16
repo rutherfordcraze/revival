@@ -80,15 +80,14 @@ def Page1():
     pageInfo = FormattedString(pageInfoStr, fontSize = 8, lineHeight = 10, fill = (0.5))
     textBox(pageInfo, GridBox('footer'))
     
-    comparisonString1 = """erwiderte sie dagegen, „habe ich denn niemand in meinem Hause, um sagen zu lassen, daß man nicht auf dich warten soll? Hoflicher aber wäre es gegen mich und im Grunde nur deine Schuldigkeit, wenn  du deinen Gefährten sagen ließest, sie sollten hier- her zum Abendessen kommen. Dann könntet ihr nachher, wenn ihr anders wolltet, in Gesellschaft   nach Hause gehen.” Andreuccio erwiderte, die Ge-fährten möchte er für den Abend nicht. Da sie es   aber einmal so haben wolle, solle sie nach Gefallen über ihn selbst verfügen. Darauf tat sie, als ließe sie im Wirtshaus bestellen, daß man ihn nicht zum       Essen erwarten möchte, und nach mancherlei andern     Gesprächen setzten sie sich zu Tisch, wo sie auf das glänzendste mit zehlreichen Schüsseln bedient      wurden und das Essen durch die List des Mädchens sich bis tief in die Nacht hinein ausdehnte.
-Als sie endlich vom Tisch aufgestanden waren und Andreuccio nach Hause gehen wollte, erklärte sie, daß sie das keinesfalls zugeben werde. Neapel sei überhaupt nicht der Ort, am wenigsten für einen Fremden, um in der Nacht darin umherzugehen.           ."""
+    comparisonString1 = """und den Zweck erreicht sah, um dessentwillen sie, die Palermitanerin, sich zur Schwester eines Perugi-aners gemacht und ihre Schlingen ausgelegt hatte, bekümmerte sie sich nicht mehr um jenen, sondern schloß eilends die Tür zu, aus welcher er herausge-treten war, als er fiel.\n Andreuccio rief inzwischen, da ihm das Kind nicht antwortete, immer stärker, doch es half ihm nichts. Nun erst fing er an, argwöhnisch zu werden, und begann allzu spät zu erraten,daß er betrogen worden war. Er kletterte über die kleine Mauer, welche das Gäßchen von der Straße trennte, ging an die Haus-tür, die ihm noch wohlbekannt war, klopfte und rüttelte lange daran und rief hinauf, aber alles ver-gebens. Jetzt sah er sein Unglück klar ein, weinte und sagte: „O Himmel, in welcher kurzen Zeit habe ich eine Schwester und fünfhundert Goldgulden ein-gebüßt!” In dieser Weise redete er noch weiter und fing dann wieder an zu klopfen und zu rufen. End-lich machte er solch einen Lärm, daß viele der näch-sten Nachbarn darüber erwachten und aufstanden, als sie es nicht mehr ertragen konnten. Inzwischen           (16)"""
     comparisonString2 = """erwiderte sie dagegen, „habe ich denn niemand in meinem Hause, um sagen zu lassen, daß man nicht auf dich warten soll? Hoflicher aber wäre es gegen mich und im Grunde nur deine Schuldigkeit, wenn  du deinen Gefährten sagen ließest, sie sollten hier- her zum Abendessen kommen. Dann könntet ihr nachher, wenn ihr anders wolltet, in Gesellschaft   nach Hause gehen.” Andreuccio erwiderte, die Ge-fährten möchte er für den Abend nicht. Da sie es   aber einmal so haben wolle, solle sie nach Gefallen über ihn selbst verfügen. Darauf tat sie, als ließe sie im Wirtshaus bestellen, daß man ihn nicht zum       Essen erwarten möchte, und nach mancherlei andern     Gesprächen setzten sie sich zu Tisch, wo sie auf das glänzendste mit zehlreichen Schüsseln bedient      wurden und das Essen durch die List des Mädchens sich bis tief in die Nacht hinein ausdehnte.
-Als sie endlich vom Tisch aufgestanden waren und Andreuccio nach Hause gehen wollte, erklärte sie, daß sie das keinesfalls zugeben werde. Neapel sei überhaupt nicht der Ort, am wenigsten für einen Fremden, um in der Nacht darin umherzugehen.           ."""
+Als sie endlich vom Tisch aufgestanden waren und Andreuccio nach Hause gehen wollte, erklärte sie, daß sie das keinesfalls zugeben werde. Neapel sei überhaupt nicht der Ort, am wenigsten für einen Fremden, um in der Nacht darin umherzugehen.           (13)"""
 
     comparison1 = FormattedString(comparisonString1, font = fontName, fontSize = 9.5, lineHeight = 14.875, fill = (0), tracking = -0.05, align = 'justified')
     comparison2 = FormattedString(comparisonString2, font = fontName, fontSize = 9.5, lineHeight = 14.875, fill = (0), tracking = -0.05, align = 'justified')
     textBox(comparison1, GridBox('d1'))
-    textBox(comparison1, GridBox('d2'))
+    textBox(comparison2, GridBox('d2'))
     
     characterSet = ''
     
@@ -203,4 +202,4 @@ Page2()
 Page3()
 Page4()
 Page5()
-saveImage("Proofs/Proof-" + rendertimeShort + ".pdf")
+saveImage("Proofs/Proofx-" + rendertimeShort + ".pdf")
