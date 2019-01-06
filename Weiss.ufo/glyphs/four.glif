@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
   <advance width="488"/>
   <unicode hex="0034"/>
@@ -5,28 +6,32 @@
     <contour>
       <point x="36" y="0.0" type="line"/>
       <point x="18" y="22" type="line"/>
-      <point x="336" y="430" type="line"/>
-      <point x="359.0" y="430" type="line"/>
-      <point x="359.0" y="64" type="line"/>
+      <point x="334" y="430" type="line"/>
+      <point x="357.0" y="430" type="line"/>
+      <point x="357.0" y="64" type="line"/>
       <point x="456" y="64" type="line"/>
       <point x="456" y="0.0" type="line"/>
-      <point x="356.0" y="0.0" type="line"/>
-      <point x="356.0" y="-193" type="line"/>
-      <point x="274.0" y="-195" type="line"/>
-      <point x="274.0" y="0.0" type="line"/>
+      <point x="353.0" y="0.0" type="line"/>
+      <point x="353.0" y="-64"/>
+      <point x="354.0" y="-129"/>
+      <point x="355.0" y="-193" type="curve"/>
+      <point x="275.0" y="-195" type="line"/>
+      <point x="276.0" y="-130"/>
+      <point x="277" y="-53"/>
+      <point x="277.0" y="0.0" type="curve"/>
     </contour>
     <contour>
-      <point x="262" y="248" type="line"/>
-      <point x="131" y="78" type="line"/>
-      <point x="139" y="65" type="line"/>
-      <point x="275" y="65" type="line"/>
-      <point x="275" y="240" type="line"/>
+      <point x="267" y="271" type="line"/>
+      <point x="111" y="73" type="line"/>
+      <point x="119" y="65" type="line"/>
+      <point x="277" y="65" type="line"/>
+      <point x="277" y="267" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-	<key>com.schriftgestaltung.Glyphs.lastChange</key>
-	<string>2018-11-11 16:04:45 +0000</string>
-</dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-11 16:04:45 +0000</string>
+    </dict>
   </lib>
 </glyph>

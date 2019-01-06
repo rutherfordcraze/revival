@@ -24,3 +24,6 @@ I'm planning to submit (some of) these to the Robofont forum, but I'd like to ma
 - Copying an image to the background doesn't work.
 - Images sometimes act as if they're locked.
 - When a UFO which contains an image is open, Robofont sometimes crashes without warning. Even if it's just idle in the background. Yes, I have checked the log file.
+- Sometimes the ruler tool doesn't work.
+- Sometimes UFO background data gets corrupted and I have to revert to an old version of a glyph.
+- Sometimes selecting a glyph from the Font Overview causes a crash.
