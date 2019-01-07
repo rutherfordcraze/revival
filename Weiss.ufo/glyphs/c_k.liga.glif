@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c_k.liga" format="2">
   <advance width="858"/>
   <outline>
@@ -112,8 +113,8 @@
   </outline>
   <lib>
     <dict>
-	<key>com.schriftgestaltung.Glyphs.lastChange</key>
-	<string>2018-11-11 16:04:45 +0000</string>
-</dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-11 16:04:45 +0000</string>
+    </dict>
   </lib>
 </glyph>

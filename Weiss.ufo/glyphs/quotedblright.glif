@@ -1,34 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-  <advance width="434"/>
+  <advance width="395"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="79" y="484" type="curve"/>
-      <point x="118" y="472" type="line"/>
-      <point x="152" y="553"/>
-      <point x="188" y="634"/>
-      <point x="226" y="715" type="curve"/>
-      <point x="218" y="728.0" type="line"/>
-      <point x="137" y="731.0" type="line"/>
-      <point x="121" y="644"/>
-      <point x="99" y="553"/>
+      <point x="40" y="484" type="curve"/>
+      <point x="79" y="472" type="line"/>
+      <point x="113" y="553"/>
+      <point x="149" y="634"/>
+      <point x="187" y="715" type="curve"/>
+      <point x="179" y="728" type="line"/>
+      <point x="98" y="731" type="line"/>
+      <point x="82" y="644"/>
+      <point x="60" y="553"/>
     </contour>
     <contour>
-      <point x="240" y="484" type="curve"/>
-      <point x="279" y="472" type="line"/>
-      <point x="317" y="553"/>
-      <point x="357" y="634"/>
-      <point x="397" y="715" type="curve"/>
-      <point x="389" y="728.0" type="line"/>
-      <point x="308" y="731.0" type="line"/>
-      <point x="287" y="634"/>
-      <point x="265" y="553"/>
+      <point x="201" y="484" type="curve"/>
+      <point x="240" y="472" type="line"/>
+      <point x="278" y="553"/>
+      <point x="318" y="634"/>
+      <point x="358" y="715" type="curve"/>
+      <point x="350" y="728" type="line"/>
+      <point x="269" y="731" type="line"/>
+      <point x="248" y="634"/>
+      <point x="226" y="553"/>
     </contour>
   </outline>
   <lib>
     <dict>
-	<key>com.schriftgestaltung.Glyphs.lastChange</key>
-	<string>2018-11-11 16:04:45 +0000</string>
-</dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-11-11 16:04:45 +0000</string>
+    </dict>
   </lib>
 </glyph>
