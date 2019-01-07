@@ -114,6 +114,8 @@
     <string>n.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>odieresis</key>
     <string>odieresis.glif</string>
     <key>one</key>
@@ -146,6 +148,8 @@
     <string>seven.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>three</key>
