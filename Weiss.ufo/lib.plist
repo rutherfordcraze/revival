@@ -119,6 +119,7 @@ Hn /H.003/n.003</string>
       <string>Y</string>
       <string>Z</string>
       <string>AE</string>
+      <string>OE</string>
       <string>Eth</string>
       <string>Thorn</string>
       <string>Oslash</string>
@@ -150,6 +151,7 @@ Hn /H.003/n.003</string>
       <string>y</string>
       <string>z</string>
       <string>ae</string>
+      <string>oe</string>
       <string>eth</string>
       <string>thorn</string>
       <string>oslash</string>
